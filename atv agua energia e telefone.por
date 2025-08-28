@@ -3,9 +3,9 @@ programa
 	
 	funcao inicio()
 	{
-		real agua = 10.00
-		real energia = 10.00
-		real telefone= 10.00
+		real agua 
+		real energia 
+		real telefone
 
 		escreva ("Digite a quantidade de água gasta:")
 		leia (agua)
@@ -20,3 +20,4 @@ programa
 	    
 		
 	
+
